@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 10px;
+    box-sizing: border-box;
+}
+.tabla-empleado table{
+    width: 400px;
+    border : 1px solid purple;
+    border-collapse: collapse;
+    thead{
+        background-color: rgb(164, 227, 203);
+        th{
+            padding: 10px;
+        }
+    }
+    tbody{
+        tr{
+            background-color: aqua;
+        }
+        tr:hover{
+            background-color: rgb(73, 68, 221);
+            color: aliceblue;
+        }
+
+    }
+}

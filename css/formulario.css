@@ -1,0 +1,102 @@
+* {
+    margin-top: 5px;
+    margin-left: 2px;
+}
+body {
+    background-color: #e6d0c7;
+}
+
+.header-datos {
+    background-color: #D45552;
+    border: 2px solid black;
+    padding: 20px;
+    vertical-align: top;
+    display: flex;
+}
+
+
+.header-parrafo p {
+    padding-left: 20px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.perfil-h4 {
+    border: 2px solid black; 
+    margin-top: 6px;
+    width: 33%;
+    height: 525px;
+    float: left;
+
+}
+
+.perfil-h4 h4{
+    background-color: #D45552;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.estudios-h4 h4{
+    background-color: #D45552;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.primaria {
+    margin-left: 10px;
+}
+
+
+.cursos-h4{
+    border: 2px solid black; 
+    margin-top: 6px;
+    margin-left: 2px;
+    width: 33%;
+    height: 525px;
+    float: left;
+}
+
+.cursos-h4 h4 {
+    background-color: #D45552;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.idioma-h4 h4{
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.lengua {
+    margin-left: 10px;
+}
+
+.stack-h4{
+    border: 2px solid black; 
+    margin-top: 6px;
+    margin-left: 2px;
+    width: 33%;
+    height: 525px;
+    float: left;
+}
+
+.stack-h4 h4 {
+    background-color: #D45552;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.laboral {
+    margin-left: 10px;
+
+}
